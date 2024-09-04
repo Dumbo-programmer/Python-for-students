@@ -45,10 +45,9 @@ git clone https://github.com/yourusername/python-for-students.git
 ```
 
 ## Usage
-To run a script, use:
-```
-python3 script_name.py
-```
+To run a script, use the script_runner:
+![image](https://github.com/user-attachments/assets/148507e4-fe6d-4684-99bf-8c19ba53dcfd)
+
 ## Scripts
 
 ## 1. Simple Calculator
